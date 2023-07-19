@@ -9,13 +9,12 @@
     <a href=mailto:soy2302ten@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:soy2302ten@gmail.com"> </a>
   </div>  
 </div>
-<div align= "center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Once I've Used </h2> <br> 
+  <h2  align= "center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Once I've Used </h2> <br> 
 
   <div style="display:flex;">
-    <div style="margin: 0 auto; margin-right:30px; text-align: center; " align= "center"> 
-      
-  ![Soha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soi-ha&layout=compact) 
+    <div style="margin: 0 auto; margin-right:30px; text-align: center; " align= "center">
+
+  ![Soha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soi-ha&layout=compact)
     </div>
     <div style="margin: 0 auto; text-align: center; " align= "center">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
@@ -43,4 +42,3 @@
     </div>
 
   </div>
-</div>
