@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ade0ff,100:0571ff&height=180&text=✨Soha✨&animation=fadeIn&fontColor=e9f0fb&fontSize=60" />
     </div>
@@ -14,8 +12,9 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "center"> 
         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soi-ha)](https://github.com/soi-ha/github-readme-stats)
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
