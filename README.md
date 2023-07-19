@@ -4,8 +4,8 @@
 <div align= "center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏻‍💻 Soha Link </h2> <br> 
   <div align= "center"> 
-    <a href=https://soi-ha.github.io/> <img src="https://img.shields.io/badge/GithubPages-222222?style=for-the-badge&logo=GithubPages&logoColor=white&link=https://soi-ha.github.io"> </a>
-    <a href=https://dour-prawn-1e8.notion.site/Soha-acb5164b971e48a0b1cef17685c66896?pvs=4/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=[https://soi-ha.github.io](https://dour-prawn-1e8.notion.site/Soha-acb5164b971e48a0b1cef17685c66896?pvs=4)"> </a>
+    <a href=https://soi-ha.github.io/> <img src="https://img.shields.io/badge/Development Blog-5881D8?style=for-the-badge&logo=GithubPages&logoColor=white&link=https://soi-ha.github.io"> </a>
+    <a href=https://dour-prawn-1e8.notion.site/Soha-acb5164b971e48a0b1cef17685c66896?pvs=4/> <img src="https://img.shields.io/badge/Notion Resume-000000?style=for-the-badge&logo=Notion&logoColor=white&link=[https://soi-ha.github.io](https://dour-prawn-1e8.notion.site/Soha-acb5164b971e48a0b1cef17685c66896?pvs=4)"> </a>
     <a href=mailto:soy2302ten@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:soy2302ten@gmail.com"> </a>
   </div>  
 </div>
@@ -13,8 +13,9 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Once I've Used </h2> <br> 
   <div style="margin: 0 auto; text-align: center;">
 
-![Soha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soi-ha&layout=compact)
-<div style="margin-bottom: 20px;"></div>
+[![Soha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soi-ha&layout=donut)](https://github.com/soi-ha/github-readme-stats)
+
+<div style="margin-bottom: 10px;"></div>
 <br/>
 <h3>Front-End</h3>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
