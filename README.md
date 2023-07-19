@@ -35,6 +35,6 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏻‍💻 Develop Log </h2> <br> 
-    <div align= "center"> [![Blog Card](https://github-readme-tistory-card.vercel.app/api?name=soi-ha.github.io&theme=default)](https://easyhomputer.tistory.com)  </div> 
+    <div align= "center"> [![Blog Card](https://github-readme-tistory-card.vercel.app/api?name=soi-ha.github.io&theme=default)](https://soi-ha.github.io/)  </div> 
     </div>
     
