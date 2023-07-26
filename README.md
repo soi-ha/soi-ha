@@ -13,7 +13,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Once I've Used </h2> <br> 
   <div style="margin: 0 auto; text-align: center;">
 
-[![Soha's Top Langs](github-readme-stats-inky-rho-98.vercel.app/api/top-langs/?username=soi-ha&layout=donut)](https://github.com/soi-ha/github-readme-stats)
+[![Soha's Top Langs](https://github-readme-stats-inky-rho-98.vercel.app/api/top-langs/?username=soi-ha&layout=donut)](https://github.com/soi-ha/github-readme-stats)
 
 <div style="margin-bottom: 10px;"></div>
 <br/>
